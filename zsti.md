@@ -3,4 +3,4 @@
 
 **Jest fajnie, ale brakuje w sklepiku szkolnym pączków 🍩 (z mięsem 🍖😳😳)**
 
-![]("pawelek.png")
+![]("logo/logozsti.png")
